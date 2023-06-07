@@ -1,3 +1,6 @@
+<details>
+<summary>職務経歴</summary>
+
 # 職務経歴
 
 |       期間        | 職歴                                 | 職種               | 備考|
@@ -57,3 +60,5 @@
 - ユーザー向けプラットフォーム開発における外部委託からの巻き取り、スクラムとウォータフォールの組み合わせによる開発体制
 - Perl からモダン環境( Kotlin、Swagger、TypeScript、React、Next.js、TailwindCSS、AtomicDesign、GitHub)へのリプレイス全般
 - デザイナーとの UI 要件定義、業務要件ヒヤリング(Figma、Backlog)
+  
+</details>
