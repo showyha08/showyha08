@@ -1,8 +1,14 @@
+# Summary Cards
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=showyha08&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=showyha08&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=showyha08&theme=default)
+
+
 <details>
-<summary>職務経歴</summary>
+<summary></summary>
 
 # 職務経歴
-
+  
 |       期間        | 職歴                                 | 職種               | 備考|
 | :---------------: | :----------------------------------- | :----------------- | :-- |
 | 2015/04 - 2016/04 | エクサ・システムプランニング株式会社 | インフラエンジニア |    |
