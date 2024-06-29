@@ -61,10 +61,15 @@
 - ドメイン移行作業、静的コンテンツサーバ新設による負荷対策
 - マーケティング開発チーム運営、スクラム開発、SEO 対策、サイトパフォーマンス改善、CWV 対策
 
-## Web サービスリプレイス 開発メンバー (2022/12 - 現在)
+## Web サービスリプレイス リーダー/開発メンバー (2022/12 - 現在)
 
 - ユーザー向けプラットフォーム開発における外部委託からの巻き取り、スクラムとウォータフォールの組み合わせによる開発体制
 - Perl からモダン環境( Kotlin、Swagger、TypeScript、React、Next.js、TailwindCSS、AtomicDesign、GitHub)へのリプレイス全般
 - デザイナーとの UI 要件定義、業務要件ヒヤリング(Figma、Backlog)
+
+## Web サービス保守 開発メンバー (2024/04 - 現在)
+
+- 保守開発、希望によりマネジメント寄りから開発メンバーへ転向
+- Kotlin、Swagger、TypeScript、React、Next.js、TailwindCSS、AtomicDesign、GitHub、Figma、Backlog
   
 </details>
